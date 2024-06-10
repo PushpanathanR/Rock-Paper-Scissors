@@ -1,0 +1,34 @@
+body {
+  background-color: #2d2f30;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.game-move {
+  background-color: #5b6062;
+  border: none;
+  padding: 20px;
+  border-radius: 85px;
+  margin-right: 20px;
+}
+
+.game-move:hover {
+  background-color: #797f81;
+}
+
+.reset-button {
+  color:white;
+  background-color: black;
+  border: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.game-heading {
+  font-size: 50px;
+  font-weight: bold;
+}
